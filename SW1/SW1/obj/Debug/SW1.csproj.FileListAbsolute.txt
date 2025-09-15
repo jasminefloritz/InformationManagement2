@@ -1,0 +1,7 @@
+C:\Users\tzuta\source\repos\SW1\SW1\bin\Debug\SW1.exe.config
+C:\Users\tzuta\source\repos\SW1\SW1\bin\Debug\SW1.exe
+C:\Users\tzuta\source\repos\SW1\SW1\bin\Debug\SW1.pdb
+C:\Users\tzuta\source\repos\SW1\SW1\obj\Debug\SW1.csproj.AssemblyReference.cache
+C:\Users\tzuta\source\repos\SW1\SW1\obj\Debug\SW1.csproj.CoreCompileInputs.cache
+C:\Users\tzuta\source\repos\SW1\SW1\obj\Debug\SW1.exe
+C:\Users\tzuta\source\repos\SW1\SW1\obj\Debug\SW1.pdb
