@@ -1,0 +1,11 @@
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\bin\Debug\simcard_registration_form.exe.config
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\bin\Debug\simcard_registration_form.exe
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\bin\Debug\simcard_registration_form.pdb
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\obj\Debug\simcard_registration_form.csproj.AssemblyReference.cache
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\obj\Debug\simcard_registration_form.Form1.resources
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\obj\Debug\simcard_registration_form.Properties.Resources.resources
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\obj\Debug\simcard_registration_form.csproj.GenerateResource.cache
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\obj\Debug\simcard_registration_form.csproj.CoreCompileInputs.cache
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\obj\Debug\simcard_registration_form.exe
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\obj\Debug\simcard_registration_form.pdb
+C:\Users\tzuta\source\repos\simcard_registration_form\simcard_registration_form\obj\Debug\simcard_registration_form.Form2.resources
